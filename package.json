@@ -1,14 +1,14 @@
 {
   "name": "react-native-indian-number-to-words",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Convert numbers to Indian number words",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
-  "build": "npx tsc",
-  "prepare": "npm run build",
-  "publish": "npm publish"
-},
+    "build": "npx tsc",
+    "prepare": "npm run build",
+    "publish": "npm publish"
+  },
   "keywords": [
     "react-native",
     "number-to-words",
