@@ -1,0 +1,25 @@
+{
+  "name": "react-native-indian-number-to-words",
+  "version": "1.0.0",
+  "description": "Convert numbers to Indian number words",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build",
+    "publish": "npm publish"
+  },
+  "keywords": [
+    "react-native",
+    "number-to-words",
+    "indian-numbers"
+  ],
+  "author": "Mohit Patil",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": ">=0.60.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  }
+}
